@@ -1,4 +1,4 @@
-SmevWCF
+SmevWCFService
 =======
 
 WCF service for SMEV
